@@ -2,8 +2,8 @@ html,
 body {
     min-height: 100%;
     font-size: 100%;
-    color: rgb(255, 0, 128)
-
+    color: rgb(255, 0, 0);
+    text-align: center;
 
 
 }
