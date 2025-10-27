@@ -9,7 +9,6 @@ x=300
 y=100
 
 
-
 def ratanie():
     global cislo,od,do,pokusy,pokusy,x,y
     od = int(entry1.get())
