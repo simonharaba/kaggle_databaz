@@ -1,3 +1,4 @@
+#priebeh_hadik
 subor=open('hada.txt','r',encoding='utf-8')
 subor2=open('hadkompres.txt','w')
 pocet=0
