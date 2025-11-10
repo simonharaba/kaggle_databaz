@@ -1,7 +1,0 @@
-High score
-==========
-Alena 120
-Bob 115
-Charles 80
-Dana 75
-Edo 70
